@@ -1,0 +1,6 @@
+C:\Users\Ryan.Nichol\RiderProjects\PathFinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\Ryan.Nichol\RiderProjects\PathFinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\Ryan.Nichol\RiderProjects\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.AssemblyReference.cache
+C:\Users\Ryan.Nichol\RiderProjects\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\Ryan.Nichol\RiderProjects\PathFinder\PathFinder\obj\Debug\PathFinder.exe
+C:\Users\Ryan.Nichol\RiderProjects\PathFinder\PathFinder\obj\Debug\PathFinder.pdb
